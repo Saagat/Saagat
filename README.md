@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Dynamic Typing Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Sagar%20Navnath&fontSize=70&fontColor=ffffff&desc=UX%2FUI%20%26%20Visual%20Designer&descSize=25&descAlign=50&descAlignY=55&animation=twinkling" width="100%"/>
+<img src="sagar_navnath_header_banner_1767119104396.png" width="100%"/>
 
 </div>
 
