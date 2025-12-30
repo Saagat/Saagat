@@ -299,56 +299,96 @@ graph TB
 
 ### 🔍 DISCOVER
 
-**Divergent Thinking**
+**"Designing the Right Thing"**  
+_Divergent Thinking_
 
-- User Research
-- Market Analysis
-- Interviews
-- Observations
-- Data Collection
+#### Research Phase:
+
+- **Rip the Brief** - Challenge assumptions
+- **Primary Research** - User interviews, observations
+- **Secondary Research** - Market analysis, competitive research
+- **Cluster Topics** - Organize findings into themes
+
+#### Deliverables:
+
+- Question, Challenge, Client brief
+- Unstructured research findings
 
 </td>
 <td align="center" width="25%">
 
 ### 📌 DEFINE
 
-**Convergent Thinking**
+**"Designing the Right Thing"**  
+_Convergent Thinking_
 
-- Problem Framing
-- User Needs
-- Insights Synthesis
-- Design Brief
-- Success Metrics
+#### Synthesis Phase:
+
+- **Insights** - Extract key learnings
+- **Themes** - Identify patterns
+- **Opportunity Areas** - Find design opportunities
+- **HMW** - "How Might We" questions
+
+#### Deliverables:
+
+- Final brief
+- HMW-Question
+- Design strategy
 
 </td>
 <td align="center" width="25%">
 
 ### 🎨 DEVELOP
 
-**Divergent Thinking**
+**"Designing Things Right"**  
+_Divergent Thinking_
 
-- Ideation
-- Wireframing
-- Prototyping
-- Visual Design
-- Iterations
+#### Ideation Phase:
+
+- **Ideation** - Generate multiple concepts
+- **Ideas** - Sketch and wireframe
+- **Evaluation** - Assess feasibility
+- **Refinement** - Iterate on best ideas
+
+#### Deliverables:
+
+- Concepts and wireframes
+- Multiple design directions
+- Evaluated solutions
 
 </td>
 <td align="center" width="25%">
 
 ### 🚀 DELIVER
 
-**Convergent Thinking**
+**"Designing Things Right"**  
+_Convergent Thinking_
 
-- Testing
-- Refinement
-- Development
-- Launch
-- Measurement
+#### Implementation Phase:
+
+- **Build** - Create prototypes
+- **Test** - Validate with users
+- **Iterate** - Refine based on feedback
+- **Build, Test, Iterate** - Repeat cycle
+
+#### Deliverables:
+
+- Answer, product, solution
+- Validated final design
+- Launch-ready product
 
 </td>
 </tr>
 </table>
+
+### 💡 **Design Journey:**
+
+```
+A (Don't know / Could be) ──→ [DISCOVER] ──→ [DEFINE] ──→ [DEVELOP] ──→ [DELIVER] ──→ B (Do know / Should be)
+```
+
+> **Key Principle:** The double diamond represents divergence and convergence in thinking.  
+> First diamond focuses on **understanding the problem**, second diamond on **creating the solution**.
 
 </div>
 
