@@ -257,7 +257,7 @@ intuitive, beautiful experiences.
 
 <table>
 <tr>
-<td align="center" width="25%">
+<td align="left" width="25%" valign="top">
 
 ### 🔍 DISCOVER
 
@@ -277,7 +277,7 @@ _Divergent Thinking_
 - Unstructured research findings
 
 </td>
-<td align="center" width="25%">
+<td align="left" width="25%" valign="top">
 
 ### 📌 DEFINE
 
@@ -298,7 +298,7 @@ _Convergent Thinking_
 - Design strategy
 
 </td>
-<td align="center" width="25%">
+<td align="left" width="25%" valign="top">
 
 ### 🎨 DEVELOP
 
@@ -319,7 +319,7 @@ _Divergent Thinking_
 - Evaluated solutions
 
 </td>
-<td align="center" width="25%">
+<td align="left" width="25%" valign="top">
 
 ### 🚀 DELIVER
 
@@ -360,7 +360,7 @@ The iterative cycle that ensures users are at the heart of every design decision
 
 <table>
 <tr>
-<td align="center" width="25%">
+<td align="left" width="25%" valign="top">
 
 #### 🎯 Step 1
 
@@ -373,7 +373,7 @@ The iterative cycle that ensures users are at the heart of every design decision
 - Environmental factors
 
 </td>
-<td align="center" width="25%">
+<td align="left" width="25%" valign="top">
 
 #### 📋 Step 2
 
@@ -386,7 +386,7 @@ The iterative cycle that ensures users are at the heart of every design decision
 - Constraints identification
 
 </td>
-<td align="center" width="25%">
+<td align="left" width="25%" valign="top">
 
 #### 🎨 Step 3
 
@@ -399,7 +399,7 @@ The iterative cycle that ensures users are at the heart of every design decision
 - Interaction design
 
 </td>
-<td align="center" width="25%">
+<td align="left" width="25%" valign="top">
 
 #### ✅ Step 4
 
