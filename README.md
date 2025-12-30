@@ -1,7 +1,9 @@
+# Sagar Navnath - UX/UI & Visual Designer
+
 <div align="center">
 
 <!-- Dynamic Typing Header -->
-<img src="sagar_navnath_header_banner_1767119104396.png" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20,24,27&height=200&section=header&fontColor=fff&fontSize=70&text=Sagar%20Navnath&desc=UX%2FUI%20%26%20Visual%20Designer%20%F0%9F%8E%A8&descSize=25&descAlignY=65&descAlign=50" width="100%" alt="Header Banner" />
 
 </div>
 
