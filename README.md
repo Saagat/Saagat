@@ -42,7 +42,7 @@
 
 ## 🚀 About Me
 
-<table style="border-collapse: collapse; border: 1px solid #444;">
+<table style="width: 100%; border-collapse: collapse; border: 1px solid #444;">
 <tr>
 <td>
 
