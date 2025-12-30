@@ -390,6 +390,87 @@ A (Don't know / Could be) ──→ [DISCOVER] ──→ [DEFINE] ──→ [DEV
 > **Key Principle:** The double diamond represents divergence and convergence in thinking.  
 > First diamond focuses on **understanding the problem**, second diamond on **creating the solution**.
 
+---
+
+### 🔄 **UX User-Centered Design Process** (ISO 9241-210)
+
+The iterative cycle that ensures users are at the heart of every design decision:
+
+```mermaid
+%%{init: {'theme':'dark'}}%%
+graph LR
+    A[🎯 Understand<br/>Context of Use] -->|User Research| B[📋 Specify User<br/>Requirements]
+    B -->|Define Needs| C[🎨 Design<br/>Solutions]
+    C -->|Create Prototypes| D[✅ Evaluate Against<br/>Requirements]
+    D -->|Iterate| A
+    D -.->|Refine| B
+    D -.->|Improve| C
+
+    style A fill:#FF6B6B,stroke:#fff,stroke-width:3px,color:#fff
+    style B fill:#4ECDC4,stroke:#fff,stroke-width:3px,color:#fff
+    style C fill:#45B7D1,stroke:#fff,stroke-width:3px,color:#fff
+    style D fill:#96CEB4,stroke:#fff,stroke-width:3px,color:#fff
+```
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+#### 🎯 Step 1
+
+**Understand Context**
+
+- User research
+- Contextual inquiry
+- Stakeholder interviews
+- Usage scenarios
+- Environmental factors
+
+</td>
+<td align="center" width="25%">
+
+#### 📋 Step 2
+
+**Specify Requirements**
+
+- User needs analysis
+- Functional requirements
+- Usability goals
+- Success criteria
+- Constraints identification
+
+</td>
+<td align="center" width="25%">
+
+#### 🎨 Step 3
+
+**Design Solutions**
+
+- Ideation workshops
+- Wireframing
+- Prototyping
+- Visual design
+- Interaction design
+
+</td>
+<td align="center" width="25%">
+
+#### ✅ Step 4
+
+**Evaluate & Test**
+
+- Usability testing
+- A/B testing
+- Heuristic evaluation
+- User feedback
+- Iterate based on results
+
+</td>
+</tr>
+</table>
+
+> **💡 Iterative Loop:** The dashed arrows represent continuous iteration—testing reveals insights that inform understanding, requirements, and design improvements.
+
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
