@@ -255,44 +255,6 @@ intuitive, beautiful experiences.
 
 ### 💎 Discover → Define → Develop → Deliver 💎
 
-```mermaid
-%%{init: {'theme':'dark'}}%%
-graph TB
-    subgraph Diamond1["💎 PROBLEM SPACE 💎"]
-        A1[Start] --> B1[🔍 DISCOVER]
-        B1 --> B2[User Research<br/>Market Analysis<br/>Stakeholder Interviews]
-        B2 --> B3[Empathy Maps<br/>User Personas<br/>Journey Maps]
-        B3 --> C1[� DEFINE]
-        C1 --> C2[Problem Statement<br/>Design Brief<br/>User Needs]
-        C2 --> C3[How Might We?<br/>Design Goals]
-    end
-
-    subgraph Diamond2["💎 SOLUTION SPACE 💎"]
-        C3 --> D1[🎨 DEVELOP]
-        D1 --> D2[Ideation<br/>Wireframes<br/>Prototyping]
-        D2 --> D3[Design Systems<br/>Visual Design<br/>Interactions]
-        D3 --> E1[🚀 DELIVER]
-        E1 --> E2[Usability Testing<br/>Refinement<br/>Development]
-        E2 --> E3[Launch<br/>Measure<br/>Iterate]
-    end
-
-    style A1 fill:#FF6B6B,stroke:#fff,stroke-width:3px,color:#fff
-    style B1 fill:#FF6B6B,stroke:#fff,stroke-width:4px,color:#fff
-    style B2 fill:#FF8C8C,stroke:#fff,stroke-width:2px,color:#fff
-    style B3 fill:#FFA0A0,stroke:#fff,stroke-width:2px,color:#fff
-    style C1 fill:#4ECDC4,stroke:#fff,stroke-width:4px,color:#fff
-    style C2 fill:#6ED9D9,stroke:#fff,stroke-width:2px,color:#fff
-    style C3 fill:#8BE5E5,stroke:#fff,stroke-width:2px,color:#fff
-    style D1 fill:#45B7D1,stroke:#fff,stroke-width:4px,color:#fff
-    style D2 fill:#65C7E1,stroke:#fff,stroke-width:2px,color:#fff
-    style D3 fill:#85D7F1,stroke:#fff,stroke-width:2px,color:#fff
-    style E1 fill:#96CEB4,stroke:#fff,stroke-width:4px,color:#fff
-    style E2 fill:#A6DEC4,stroke:#fff,stroke-width:2px,color:#fff
-    style E3 fill:#B6EED4,stroke:#fff,stroke-width:2px,color:#fff
-    style Diamond1 fill:#1a1a2e,stroke:#FF6B6B,stroke-width:3px
-    style Diamond2 fill:#1a1a2e,stroke:#45B7D1,stroke-width:3px
-```
-
 <table>
 <tr>
 <td align="center" width="25%">
@@ -395,22 +357,6 @@ A (Don't know / Could be) ──→ [DISCOVER] ──→ [DEFINE] ──→ [DEV
 ### 🔄 **UX User-Centered Design Process** (ISO 9241-210)
 
 The iterative cycle that ensures users are at the heart of every design decision:
-
-```mermaid
-%%{init: {'theme':'dark'}}%%
-graph LR
-    A[🎯 Understand<br/>Context of Use] -->|User Research| B[📋 Specify User<br/>Requirements]
-    B -->|Define Needs| C[🎨 Design<br/>Solutions]
-    C -->|Create Prototypes| D[✅ Evaluate Against<br/>Requirements]
-    D -->|Iterate| A
-    D -.->|Refine| B
-    D -.->|Improve| C
-
-    style A fill:#FF6B6B,stroke:#fff,stroke-width:3px,color:#fff
-    style B fill:#4ECDC4,stroke:#fff,stroke-width:3px,color:#fff
-    style C fill:#45B7D1,stroke:#fff,stroke-width:3px,color:#fff
-    style D fill:#96CEB4,stroke:#fff,stroke-width:3px,color:#fff
-```
 
 <table>
 <tr>
