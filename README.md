@@ -430,7 +430,7 @@ The iterative cycle that ensures users are at the heart of every design decision
 
 <table>
 <tr>
-<td align="center" width="33%">
+<td align="left" width="33%" valign="top">
 
 ### 🎨 Design Projects
 
@@ -438,7 +438,7 @@ Open for freelance
 design opportunities
 
 </td>
-<td align="center" width="33%">
+<td align="left" width="33%" valign="top">
 
 ### 💼 Consultations
 
@@ -446,7 +446,7 @@ Available for UX/UI
 expert consultations
 
 </td>
-<td align="center" width="33%">
+<td align="left" width="33%" valign="top">
 
 ### 🤝 Collaborations
 
