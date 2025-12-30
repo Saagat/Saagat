@@ -1,9 +1,7 @@
 <div align="center">
 
 <!-- Dynamic Typing Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=FF6B6B&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B+I'm+Sagar+Navnath;UX%2FUI+%26+Visual+Designer+%F0%9F%8E%A8;Full+Stack+Developer+%F0%9F%92%BB;Crafting+Digital+Experiences+%E2%9C%A8" alt="Typing SVG" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,27&height=180&section=header&animation=twinkling&fontColor=fff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,27&height=220&section=header&animation=twinkling&fontColor=fff&fontSize=70&text=Sagar%20Navnath&desc=UX%2FUI%20%26%20Visual%20Designer%20%F0%9F%8E%A8&descSize=25&descAlignY=62&descAlign=50" width="100%"/>
 
 </div>
 
