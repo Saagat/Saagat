@@ -1,5 +1,11 @@
-# Sagar Navnath - UX/UI & Visual Designer
+<div align="center">
 
+<!-- Dynamic Typing Header -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=FF6B6B&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B+I'm+Sagar+Navnath;UX%2FUI+%26+Visual+Designer+%F0%9F%8E%A8;Full+Stack+Developer+%F0%9F%92%BB;Crafting+Digital+Experiences+%E2%9C%A8" alt="Typing SVG" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,27&height=180&section=header&animation=twinkling&fontColor=fff" width="100%"/>
+
+</div>
 
 <!-- Animated Snake -->
 <div align="center">
@@ -12,7 +18,7 @@
 
 ## 🎨 Transforming Ideas into Stunning Digital Experiences
 
-**UX/UI Designer • Visual Designer • Full Stack Developer • Product Designer**
+### UX/UI Designer • Visual Designer • Full Stack Developer • Product Designer
 
 <img src="https://komarev.com/ghpvc/?username=Saagat&label=Profile%20Views&color=FF6B6B&style=for-the-badge" alt="Profile Views" />
 
@@ -83,7 +89,7 @@ intuitive, beautiful experiences.
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider">
 
 <!-- What I Do Section -->
 <div align="center">
@@ -92,9 +98,7 @@ intuitive, beautiful experiences.
 
 </div>
 
-<details open>
-<summary><b>🎨 Design Expertise</b></summary>
-<br>
+### 🎨 Design Expertise
 
 | Skill                    | Description                                               |
 | ------------------------ | --------------------------------------------------------- |
@@ -107,11 +111,7 @@ intuitive, beautiful experiences.
 | 📱 **Responsive Design** | Mobile-first, cross-platform experiences                  |
 | ♿ **Accessibility**     | WCAG compliant, inclusive design for everyone             |
 
-</details>
-
-<details open>
-<summary><b>💻 Technical Stack</b></summary>
-<br>
+### 💻 Technical Stack
 
 ### 🎨 Design Tools
 
@@ -126,62 +126,81 @@ intuitive, beautiful experiences.
   <img src="https://img.shields.io/badge/InVision-FF3366?style=for-the-badge&logo=invision&logoColor=white" alt="InVision" />
 </p>
 
-### 💻 Development
+### 🌐 Frontend
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/Nuxt-00C58E?style=for-the-badge&logo=nuxt.js&logoColor=white" alt="Nuxt" />
+  <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte" />
   <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
-  <img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 </p>
 
-### 🛠️ Dev Tools & CLI
+### ⚙️ Backend
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Shopify_CLI-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" />
-  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
+</p>
+
+### �️ Database
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+</p>
+
+### 🚀 Hosting & Infrastructure
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" alt="Railway" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Shopify_CLI-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify CLI" />
 </p>
 
 ### 📧 Integration & Services
 
 <p align="center">
-  <img src="https://img.shields.io/badge/EmailJS-E85D2D?style=for-the-badge&logo=gmail&logoColor=white" />
-  <img src="https://img.shields.io/badge/Web3Forms-000000?style=for-the-badge&logo=w3c&logoColor=white" />
+  <img src="https://img.shields.io/badge/EmailJS-E85D2D?style=for-the-badge&logo=gmail&logoColor=white" alt="EmailJS" />
+  <img src="https://img.shields.io/badge/Web3Forms-000000?style=for-the-badge&logo=w3c&logoColor=white" alt="Web3Forms" />
 </p>
 
 ### 📊 Analytics & Research
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Clarity-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hotjar-FF3C00?style=for-the-badge&logo=hotjar&logoColor=white" />
-  <img src="https://img.shields.io/badge/Mixpanel-7856FF?style=for-the-badge&logo=mixpanel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Clarity-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Clarity" />
+  <img src="https://img.shields.io/badge/Hotjar-FF3C00?style=for-the-badge&logo=hotjar&logoColor=white" alt="Hotjar" />
+  <img src="https://img.shields.io/badge/Mixpanel-7856FF?style=for-the-badge&logo=mixpanel&logoColor=white" alt="Mixpanel" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
 </p>
 
 ### 🤖 Automation & Workflow
 
 <p align="center">
-  <img src="https://img.shields.io/badge/N8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white" />
-  <img src="https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=integromat&logoColor=white" />
-  <img src="https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=airtable&logoColor=white" />
-  <img src="https://img.shields.io/badge/Notion_API-000000?style=for-the-badge&logo=notion&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/N8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="N8n" />
+  <img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white" alt="Zapier" />
+  <img src="https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=integromat&logoColor=white" alt="Make" />
+  <img src="https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=airtable&logoColor=white" alt="Airtable" />
+  <img src="https://img.shields.io/badge/Notion_API-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion API" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
 </p>
-
-</details>
 
 <!-- Featured Projects -->
 <div align="center">
@@ -192,7 +211,7 @@ intuitive, beautiful experiences.
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider">
 
 <!-- Design Achievements -->
 <div align="center">
@@ -220,7 +239,7 @@ intuitive, beautiful experiences.
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider">
 
 <!-- Design Process -->
 <div align="center">
@@ -235,17 +254,17 @@ intuitive, beautiful experiences.
 
 ### 🔍 DISCOVER
 
-**"Designing the Right Thing"**  
-_Divergent Thinking_
+> "Designing the Right Thing"  
+> _Divergent Thinking_
 
-#### Research Phase:
+#### Research Phase
 
 - **Rip the Brief** - Challenge assumptions
 - **Primary Research** - User interviews, observations
 - **Secondary Research** - Market analysis, competitive research
 - **Cluster Topics** - Organize findings into themes
 
-#### Deliverables:
+#### Discovery Deliverables
 
 - Question, Challenge, Client brief
 - Unstructured research findings
@@ -255,17 +274,17 @@ _Divergent Thinking_
 
 ### 📌 DEFINE
 
-**"Designing the Right Thing"**  
-_Convergent Thinking_
+> "Designing the Right Thing"  
+> _Convergent Thinking_
 
-#### Synthesis Phase:
+#### Synthesis Phase
 
 - **Insights** - Extract key learnings
 - **Themes** - Identify patterns
 - **Opportunity Areas** - Find design opportunities
 - **HMW** - "How Might We" questions
 
-#### Deliverables:
+#### Definition Deliverables
 
 - Final brief
 - HMW-Question
@@ -276,17 +295,17 @@ _Convergent Thinking_
 
 ### 🎨 DEVELOP
 
-**"Designing Things Right"**  
-_Divergent Thinking_
+> "Designing Things Right"  
+> _Divergent Thinking_
 
-#### Ideation Phase:
+#### Ideation Phase
 
 - **Ideation** - Generate multiple concepts
 - **Ideas** - Sketch and wireframe
 - **Evaluation** - Assess feasibility
 - **Refinement** - Iterate on best ideas
 
-#### Deliverables:
+#### Development Deliverables
 
 - Concepts and wireframes
 - Multiple design directions
@@ -297,17 +316,17 @@ _Divergent Thinking_
 
 ### 🚀 DELIVER
 
-**"Designing Things Right"**  
-_Convergent Thinking_
+> "Designing Things Right"  
+> _Convergent Thinking_
 
-#### Implementation Phase:
+#### Implementation Phase
 
 - **Build** - Create prototypes
 - **Test** - Validate with users
 - **Iterate** - Refine based on feedback
 - **Build, Test, Iterate** - Repeat cycle
 
-#### Deliverables:
+#### Delivery Deliverables
 
 - Answer, product, solution
 - Validated final design
@@ -317,9 +336,9 @@ _Convergent Thinking_
 </tr>
 </table>
 
-### 💡 **Design Journey:**
+### 💡 **Design Journey**
 
-```
+```text
 A (Don't know / Could be) ──→ [DISCOVER] ──→ [DEFINE] ──→ [DEVELOP] ──→ [DELIVER] ──→ B (Do know / Should be)
 ```
 
@@ -393,12 +412,12 @@ The iterative cycle that ensures users are at the heart of every design decision
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider">
 
 <!-- Collaboration Section -->
 <div align="center">
 
-## 💬 Let's Create Something Amazing Together!
+## 💬 Let's Create Something Amazing Together
 
 **I'm always excited to collaborate on innovative projects and create meaningful experiences.**
 
@@ -437,7 +456,7 @@ open-source projects
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider">
 
 <!-- Fun Facts -->
 <div align="center">
@@ -467,7 +486,7 @@ open-source projects
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider">
 
 <!-- Support Section -->
 <div align="center">
@@ -482,17 +501,17 @@ If you like my work, consider giving a ⭐ to my repositories!
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider">
 
 <!-- Footer -->
 <div align="center">
 
-### 🌈 Thanks for visiting!
+### 🌈 Thanks for visiting
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=500&lines=Let's+build+something+amazing!;Happy+designing+and+coding!;%E2%9C%A8+Keep+creating+%E2%9C%A8" alt="Footer" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,27&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,27&height=120&section=footer" width="100%" alt="Footer Wave"/>
 
-**✨ Designed with passion • Built with purpose ✨**
+### ✨ Designed with passion • Built with purpose ✨
 
 </div>
