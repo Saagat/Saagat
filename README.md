@@ -50,6 +50,7 @@
 name: Sagar Navnath
 located_in: India
 current_role: UX/UI & Visual Designer
+experience: "11+ Years"
 education: ["Design", "Development", "User Research"]
 fields_of_interests:
   [
@@ -236,7 +237,7 @@ intuitive, beautiful experiences.
 
 ## 🏆 Achievements & Milestones
 
-![Design Achievements](design_achievements.png)
+![Design Achievements](achievements_milestones_banner_1767118264115.png)
 
 </div>
 
