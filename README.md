@@ -189,49 +189,6 @@ intuitive, beautiful experiences.
 
 </details>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!-- GitHub Stats -->
-<div align="center">
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Saagat&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FF6B6B&text_color=C9D1D9&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Saagat&theme=radical&hide_border=true&background=0D1117&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saagat&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=C9D1D9&langs_count=10" alt="Top Languages" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Saagat&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=FF6B6B&line=FF6B6B&point=C9D1D9" alt="Activity Graph" />
-</p>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!-- Featured Projects -->
-<div align="center">
-
-## 🎨 Featured Projects
-
-![Featured Projects](featured_projects.png)
-
-</div>
-
-<div align="center">
-
-<a href="YOUR_PROJECT_1_URL">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Saagat&repo=YOUR_REPO_1&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FF6B6B" />
-</a>
-<a href="YOUR_PROJECT_2_URL">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Saagat&repo=YOUR_REPO_2&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FF6B6B" />
-</a>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <!-- Design Achievements -->
 <div align="center">
 
