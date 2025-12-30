@@ -214,7 +214,7 @@ intuitive, beautiful experiences.
 
 ## 🎨 Featured Projects
 
-![Featured Projects](./featured_projects.png)
+![Featured Projects](featured_projects.png)
 
 </div>
 
@@ -236,7 +236,7 @@ intuitive, beautiful experiences.
 
 ## 🏆 Achievements & Milestones
 
-![Design Achievements](./design_achievements.png)
+![Design Achievements](design_achievements.png)
 
 </div>
 
