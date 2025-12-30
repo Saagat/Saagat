@@ -239,6 +239,23 @@ intuitive, beautiful experiences.
 
 ![Design Achievements](achievements_milestones_banner_1767118264115.png)
 
+<br>
+
+<table style="border-collapse: collapse; border: 1px solid #444;">
+<tr>
+<td align="center" width="50%">
+
+### 😄 50+ <br> Happy Clients
+
+</td>
+<td align="center" width="50%">
+
+### 🚀 100+ <br> Projects Completed
+
+</td>
+</tr>
+</table>
+
 </div>
 
 <div align="center">
