@@ -245,22 +245,16 @@ intuitive, beautiful experiences.
 <tr>
 <td align="center" width="50%">
 
-### 😄 50+ <br> Happy Clients
+### 😄 50+ Happy Clients
 
 </td>
 <td align="center" width="50%">
 
-### 🚀 100+ <br> Projects Completed
+### 🚀 100+ Projects Completed
 
 </td>
 </tr>
 </table>
-
-</div>
-
-<div align="center">
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=Saagat&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4)
 
 </div>
 
