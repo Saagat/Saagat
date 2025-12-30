@@ -42,7 +42,7 @@
 
 ## 🚀 About Me
 
-<table>
+<table style="border-collapse: collapse; border: 1px solid #444;">
 <tr>
 <td>
 
@@ -255,7 +255,7 @@ intuitive, beautiful experiences.
 
 ### 💎 Discover → Define → Develop → Deliver 💎
 
-<table>
+<table style="border-collapse: collapse; border: 1px solid #444;">
 <tr>
 <td align="left" width="25%" valign="top">
 
@@ -358,7 +358,7 @@ A (Don't know / Could be) ──→ [DISCOVER] ──→ [DEFINE] ──→ [DEV
 
 The iterative cycle that ensures users are at the heart of every design decision:
 
-<table>
+<table style="border-collapse: collapse; border: 1px solid #444;">
 <tr>
 <td align="left" width="25%" valign="top">
 
@@ -428,7 +428,7 @@ The iterative cycle that ensures users are at the heart of every design decision
 
 **I'm always excited to collaborate on innovative projects and create meaningful experiences.**
 
-<table>
+<table style="border-collapse: collapse; border: 1px solid #444;">
 <tr>
 <td align="left" width="33%" valign="top">
 
@@ -470,7 +470,7 @@ open-source projects
 
 ## ⚡ Fun Facts About Me
 
-<table>
+<table style="border-collapse: collapse; border: 1px solid #444;">
 <tr>
 <td align="center">🎵</td>
 <td><b>Music Lover</b><br>Design + Music = Creative Fuel</td>
