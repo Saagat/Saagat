@@ -32,9 +32,6 @@
 <div align="center">
   
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-FF5722?style=for-the-badge&labelColor=000000&logo=google-chrome&logoColor=white)](https://portfolio.baselora.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
-[![Behance](https://img.shields.io/badge/Behance-Follow-1769FF?style=for-the-badge&logo=behance&logoColor=white)]()
-[![Dribbble](https://img.shields.io/badge/Dribbble-Shots-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)]()
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
 
 </div>
