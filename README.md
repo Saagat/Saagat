@@ -28,14 +28,6 @@
 
 </div>
 
-<!-- Social Badges with Animation -->
-<div align="center">
-  
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-FF5722?style=for-the-badge&labelColor=000000&logo=google-chrome&logoColor=white)](https://portfolio.baselora.com/)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-
-</div>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider">
 
 <!-- About Me Section with Cards -->
